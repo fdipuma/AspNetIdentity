@@ -1,3 +1,5 @@
 [Oo]bj/
 [Bb]in/
 packages/
+/.vs
+/Microsoft.AspNet.Identity.sln.DotSettings.user
