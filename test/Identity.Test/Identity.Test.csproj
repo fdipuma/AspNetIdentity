@@ -133,17 +133,17 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Microsoft.AspNet.Identity.Core\Microsoft.AspNet.Identity.Core.csproj">
+    <ProjectReference Include="..\..\src\Microsoft.AspNet.Identity.Core\Microsoft.AspNet.Identity.NetStandard.Core.csproj">
       <Project>{d2f24972-0f56-4c18-bd65-c26a320a0c68}</Project>
-      <Name>Microsoft.AspNet.Identity.Core</Name>
+      <Name>Microsoft.AspNet.Identity.NetStandard.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\Microsoft.AspNet.Identity.EntityFramework\Microsoft.AspNet.Identity.EntityFramework.csproj">
+    <ProjectReference Include="..\..\src\Microsoft.AspNet.Identity.EntityFramework\Microsoft.AspNet.Identity.NetStandard.EntityFramework.csproj">
       <Project>{d7298dad-ab04-4502-9567-0461d0ad059e}</Project>
-      <Name>Microsoft.AspNet.Identity.EntityFramework</Name>
+      <Name>Microsoft.AspNet.Identity.NetStandard.EntityFramework</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\src\Microsoft.AspNet.Identity.Owin\Microsoft.AspNet.Identity.Owin.csproj">
+    <ProjectReference Include="..\..\src\Microsoft.AspNet.Identity.Owin\Microsoft.AspNet.Identity.NetStandard.Owin.csproj">
       <Project>{943170eb-f4e7-4a6d-989e-2cf6c681dd89}</Project>
-      <Name>Microsoft.AspNet.Identity.Owin</Name>
+      <Name>Microsoft.AspNet.Identity.NetStandard.Owin</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

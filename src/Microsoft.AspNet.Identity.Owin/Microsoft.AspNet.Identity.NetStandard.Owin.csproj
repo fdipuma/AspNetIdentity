@@ -96,9 +96,9 @@
     <Compile Include="SignInStatus.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.AspNet.Identity.Core\Microsoft.AspNet.Identity.Core.csproj">
+    <ProjectReference Include="..\Microsoft.AspNet.Identity.Core\Microsoft.AspNet.Identity.NetStandard.Core.csproj">
       <Project>{d2f24972-0f56-4c18-bd65-c26a320a0c68}</Project>
-      <Name>Microsoft.AspNet.Identity.Core</Name>
+      <Name>Microsoft.AspNet.Identity.NetStandard.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
