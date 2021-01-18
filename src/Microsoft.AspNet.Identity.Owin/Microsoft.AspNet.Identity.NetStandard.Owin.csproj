@@ -5,7 +5,7 @@
     <TargetFramework>net45</TargetFramework>
     <Company>Microsoft</Company>
     <Product>Microsoft.AspNet.Identity.EntityFramework</Product>
-    <Version>2.1.0</Version>
+    <Version>2.1.1</Version>
     <AssemblyVersion>2.0.0.0</AssemblyVersion>
   </PropertyGroup>
   <ItemGroup>
