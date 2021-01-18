@@ -3,9 +3,6 @@
     <RootNamespace>Microsoft.AspNet.Identity</RootNamespace>
     <AssemblyName>Microsoft.AspNet.Identity.NetStandard.Core</AssemblyName>
     <TargetFrameworks>net45;netstandard2.1</TargetFrameworks>
-    <SignAssembly>true</SignAssembly>
-    <DelaySign>true</DelaySign>
-    <AssemblyOriginatorKeyFile>35MSSharedLib1024.snk</AssemblyOriginatorKeyFile>
     <Company>Microsoft</Company>
     <Product>Microsoft.AspNet.Identity</Product>
     <Version>2.1.0</Version>

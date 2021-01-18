@@ -3,9 +3,6 @@
     <RootNamespace>Microsoft.AspNet.Identity.Owin</RootNamespace>
     <AssemblyName>Microsoft.AspNet.Identity.NetStandard.Owin</AssemblyName>
     <TargetFramework>net45</TargetFramework>
-    <SignAssembly>true</SignAssembly>
-    <DelaySign>true</DelaySign>
-    <AssemblyOriginatorKeyFile>35MSSharedLib1024.snk</AssemblyOriginatorKeyFile>
     <Company>Microsoft</Company>
     <Product>Microsoft.AspNet.Identity.EntityFramework</Product>
     <Version>2.1.0</Version>
